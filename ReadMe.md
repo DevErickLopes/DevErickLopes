@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 Sou estudante de Front End
+🔭Meu nome é Erick Lopes, um talentoso estudante de programação que está trilhando
+seu caminho na emocionante área de desenvolvimento front-end.
+Desde que me apaixonei pelo mundo da tecnologia, tenho dedicado minha jornada de
+aprendizado à arte de criar experiências de usuário incríveis na web.
+Em resumo, um entusiasta do front-end com um compromisso sólido com a qualidade,
+o aprendizado constante e a criação de interfaces web excepcionais. Estou ansioso para
+enfrentar novos desafios e continuar crescendo nesta empolgante jornada de programação.
 
 
 ## 🌐 Socials:
