@@ -16,6 +16,4 @@ aprendizado à área de programação.
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DevErickLopes&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=DevErickLopes&label=Profile%20Views&color=3&icon=5&pretty=true" />
-</a>
+[![](https://visitcount.itsvg.in/api?id=DevErickLopes&label=Profile%20Views&color=9&icon=0&pretty=true)](https://visitcount.itsvg.in)
